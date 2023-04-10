@@ -1,6 +1,6 @@
 gplotter
-./obj/*
-./bin/*
+./bin
+*.o
 *.TXT
 *.svg
 *.pdf
