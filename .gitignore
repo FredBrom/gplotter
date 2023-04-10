@@ -1,0 +1,7 @@
+gplotter
+./obj/*
+./bin/*
+*.TXT
+*.svg
+*.pdf
+*.png
